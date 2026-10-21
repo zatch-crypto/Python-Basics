@@ -1,2 +1,2 @@
-# Internship-Assignment
+# Python-basics
 Python Fundamentals
